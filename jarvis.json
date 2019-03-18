@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "jarvis-66666",
+  "private_key_id": "271f566633d3199636f666787",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDgsjI3fzAsBLV4\nqOU4lmlu3HoaYVPLGFUv+I7ASBx89IrVexXiJVFoyvfMvWQ5E5ONK1h6EdmgKVYD\nt3XxmHpGwu8DFMQn45Egp/7a1uqsbASORT8lDIfS5UAbbgL2B58Scyh7nysj2VEK\nxxc6H4Fx43x5jaN9ws1uahBZclpISO7ao0II824RWKIBkOv09lg4YLjwNljBc0uV\n55g1kq1Thov5OnSHUBHyWlNPn6pOZpaDvnSkEtk1jkXnzBOWMur37IVAAdzFMyb3\n3m1beI7DTwR66AlmHBDYRLJ7F9Xfa
+        HAHAHA IM NOT GOING TO UPLOAD MY OWN PRIVATE KEY... OR AM I...
+uabJTRrO0/ubxeGnixAoGAMUqo\nkQ3N86ya6+t5qgsqZwkB9dZPzrjtA1NoWTCANCicTCT4CnhGEcmaVBPFifQW3kAc\nS0eQw3Ql+PqiNRoFwapk44IQe1X7tJ0IolhP/sLUU4To6uUqh6Gt7NFzO1POD54P\nusZgT1IB6+2VfjmnJECCzznWaI8SaSi3MHE+oiECgYAowMoPQVHgqxN+O6cSpVwC\ndx8Fwa+TMG5DXJwLtjGepPTbWmo/0ffpsAUvs7WlZCyE25ZzQnVGJowpJMLR5IlY\ncPKh9hHO6LJHpOnej7Z2sjPYnY83f5+5vSt80es7yYBdVVn1RuFL/oL5oW/iL6aY\nM+Vk8Y4cxaojOtJwSma1KA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "masterkey@jarvis-202107.iam.gserviceaccount.com",
+  "client_id": "1032666601666378974",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/masterkey%40jarvis-666.iam.gserviceaccount.com"
+}

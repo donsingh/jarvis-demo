@@ -1,0 +1,12 @@
+{
+    "name": "donsingh/demo",
+    "require": {
+        "google/cloud": "^0.96.0"
+    },
+    "authors": [
+        {
+            "name": "Don Bhrayan M. Singh",
+            "email": "dbmsph@gmail.com"
+        }
+    ]
+}

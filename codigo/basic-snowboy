@@ -1,0 +1,8 @@
+import snowboy.snowboydecoder as snow
+
+def detected_callback():
+	print "Keyword Called!"
+
+detector = snow.HotwordDetector("{path_to_models}", sensitivity=0.5, audio_gain=1)
+detector.start(detected_callback)
+
